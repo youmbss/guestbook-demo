@@ -16,4 +16,4 @@ spec:
     namespace: guestbook
 
 syncPolicy:
-    automated: {}
+  automated: {}
